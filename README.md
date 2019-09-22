@@ -1,2 +1,2 @@
 # snake
-img for student
+img for vmm student
